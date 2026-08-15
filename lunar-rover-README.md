@@ -101,6 +101,6 @@ Estimated raw data rate of 1.15 Mbps drove storage requirements of ~931.5 GB (wi
 `FreeFlyer` `Microsoft Excel` `Systems Engineering (Requirements/CONOPS)`
 
 ## 📁 Repo Contents
-- `Project_1_Mission_Concept.pdf` — mission concept, requirements, orbital design
+- `EAS 3530 – Space Systems Concepts (2).pdf` — mission concept, requirements, orbital design
 - `Project_2_Subsystem_Design.pdf` — power, thermal, C&DH, telecom subsystem design
 - `images/` — diagrams and figures referenced above
