@@ -27,8 +27,8 @@ NASA TechPort identifies a technology gap in providing food, water, and supplies
 
 Requirements were decomposed across four levels — Mission, System, Subsystem, and Component — each with a defined verification method (Test, Demonstration, Analysis, Simulation, or Inspection).
 
-![Requirements Traceability Tree](images/requirements-tree.png)
-*Add: the color-coded requirements tree diagram*
+![Requirements Tree Diagram](images/mission-requirements.png)
+
 
 | Level | Example Requirement |
 |---|---|
