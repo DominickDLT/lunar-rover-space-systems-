@@ -49,9 +49,9 @@ A **Near Rectilinear Halo Orbit (NRHO)** was selected for the communications rel
 - Period: 167.07 hours
 - Perilune velocity: 2.448 km/s
 
-![Orbit Ground Track](images/ground-track.png)
-![Orbit ECI View](images/eci-view.png)
-*Add: ground track, orbit-from-Earth view, and Earth-Centered Inertial trajectory plots*
+![Orbit Ground Track](images/ground-track-moon.png)
+![Orbit ECI View](images/earth-centered-inertial-view-orbit.png)
+![Communications Satellite Orbit](images/communications-satellite-orbit-from-earth.png)
 
 ---
 
@@ -63,8 +63,7 @@ A **Near Rectilinear Halo Orbit (NRHO)** was selected for the communications rel
 
 **Mechanical layout:** Component placement was driven by two design decisions — keeping high-communication components (camera, navigation computer) physically close, and placing wheel motors inside the chassis to protect against lunar dust ingress.
 
-![Mechanical Layout Diagram](images/mechanical-layout.png)
-*Add: the labeled rover CAD/sketch showing subsystem placement*
+![Mechanical Layout Diagram](images/rover-system-diagram.png)
 
 ---
 
@@ -86,8 +85,7 @@ Ground stations at Cape Canaveral, the UK, and Guam provide >90% daily coverage 
 
 Estimated raw data rate of 1.15 Mbps drove storage requirements of ~931.5 GB (with 25% margin) over the 60-day mission, recommending a 1 TB radiation-tolerant solid-state storage solution and a RAD750-class flight computer (200–400 MIPS).
 
-![C&DH Block Diagram](images/cdh-diagram.png)
-*Add: the C&DH data flow diagram (sensors → OBC → storage → comms → orbiter → Earth)*
+![C&DH Block Diagram](images/C-DH-subsystem-diagram.png)
 
 ---
 
