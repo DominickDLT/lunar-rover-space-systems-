@@ -20,7 +20,6 @@ NASA TechPort identifies a technology gap in providing food, water, and supplies
 **Full success criteria** extend this to 5 sample sites across a 50 km radius and 5 seed varieties tested to maturity.
 
 ![Mission Timeline](images/mission-timeline.png)
-*Add: mission phase diagram (launch → NRHO insertion → lander separation → surface ops)*
 
 ---
 
