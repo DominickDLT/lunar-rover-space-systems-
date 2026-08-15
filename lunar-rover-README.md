@@ -103,4 +103,4 @@ Estimated raw data rate of 1.15 Mbps drove storage requirements of ~931.5 GB (wi
 ## 📁 Repo Contents
 - `EAS 3530 – Space Systems Concepts (2).pdf` — mission concept, requirements, orbital design
 - `Project 2 Space Systems Concepts (1).pdf` — power, thermal, C&DH, telecom subsystem design
-- `images/` — diagrams and figures referenced above
+- `images` — diagrams and figures referenced above
